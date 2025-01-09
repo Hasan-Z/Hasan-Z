@@ -23,6 +23,7 @@ I bring strategic vision and a collaborative spirit to everything I do. Whether 
 ## 💼 **Current Role**
 
 ### LLM Research Engineer at **Huawei Research & Development Center**
+
 - Developed, evaluated, and aligned Arabic/English prompts for **Pangu LLM**.
 - Designed guidelines for classification and enhanced **RAG compatibility**.
 - Evaluated and deployed **Digital Human Systems**, including **ASR**, **TTS**, and LLM.
@@ -46,7 +47,6 @@ I bring strategic vision and a collaborative spirit to everything I do. Whether 
 ---
 
 ## 🌐 **Projects & Contributions**
-
 
 - Managed data center and IT infrastructure, including VMware and fiber switch configurations, for **UNCTAD supervision**.
 
