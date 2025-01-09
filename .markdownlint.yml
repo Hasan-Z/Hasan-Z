@@ -27,7 +27,7 @@ MD030: # Spaces after list markers
 
 # Emphasis and strong
 MD036: # Emphasis used instead of a heading
-  punctuation: ".,;:?"
+  punctuation: ".,;:?!"
 
 # General best practices
 MD047: true # Files should end with a single newline character
