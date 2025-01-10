@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Hasan'!'
+# 👋 Hello, I'm Hasan
 
 I am a results-driven IT professional and team leader specializing in **Information Technology**, **Cybersecurity**, and **Artificial Intelligence**. With over a decade of experience spanning diverse roles in system administration, content creation, and advanced research, I thrive in solving complex problems and leading innovative projects.
 
